@@ -1,0 +1,54 @@
+.cat1{
+    background-color: brown;
+}
+
+.cat2{
+    background-color: coral;
+}
+
+.cat3{
+    background-color: cyan;
+}
+
+.Container Categories{
+    align-items: center;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 30px;
+}
+
+.card-group{
+    margin: 100px;
+    padding: 20px;
+   border: none;
+   border-radius: 10px;
+   box-shadow: 5px;
+}
+.row{
+    margin: 100px;
+}
+.card-deck{
+    margin: 100px;
+    padding: 20px; 
+}
+.contact-bg{
+    height: 300px;
+    background-color: #ece812;
+}
+.Buy-Now-button{
+    margin-top: 10px;
+    background-image: linear-gradient(45deg, #fd69a4, #ff3887);
+    border: none;
+    border-radius: 8px;
+    padding: 10px 25px;
+}
+
+.Contact-form{
+    border-radius: 8px;
+    padding: 10px 25px;
+}
+.container{
+    border-radius: 8px;
+    padding: 10px 25px;
+}
